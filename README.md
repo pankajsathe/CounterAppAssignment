@@ -137,6 +137,6 @@ $  INSERT INTO Catalog
 checkout the updated data using statement:
 $  SELECT * FROM Catalog;
 Step 9: Clean up
-Goto the folder AD-EKS and run below command
+Goto the folder AD-AKS and run below command
 
 $ terraform apply -destroy
