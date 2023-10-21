@@ -131,7 +131,7 @@ $  CREATE TABLE Catalog(
 
 Add a row of data to the Catalog table with the following SQL statement:
 $  INSERT INTO Catalog 
-  VALUES('1','Mr.','Ajit', 'Dherange',
+  VALUES('1','Mr.','Pankaj', 'Sathe',
          'Male');
 
 checkout the updated data using statement:
